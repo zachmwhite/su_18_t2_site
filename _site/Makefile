@@ -1,6 +1,6 @@
 REMOTEUSER ?= zmw5
 REMOTEHOST ?= cabbage.stat.duke.edu
-REMOTEDIR ?= /web/isds/docs/courses/Summer18/sta104.001-1
+REMOTEDIR ?= /web/isds/docs/courses/Summer18/sta104.001-2
 REMOTE ?= $(REMOTEUSER)@$(REMOTEHOST):$(REMOTEDIR)
 
 .PHONY: clean
